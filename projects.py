@@ -21,7 +21,7 @@ with col2:
     **Project 2: Nexa-Ai**
     - **Description**: Nexa-Ai is an AI chatbot powered by Azure OpenAI services, capable of reading PDFs.
     - **Technologies used**: Streamlit, Azure OpenAI's API.
-    - [View Project](https://github.com/hanako0311/Nexa-Ai.git)
+    - [View Project](https://nexa-ai.streamlit.app/)
     """)
 
 # Project 3
@@ -32,5 +32,5 @@ with col3:
     - **Description**: FindNest is an innovative digital solution designed to streamline and enhance the lost and found process 
       at CIT-University.
     - **Technologies used**: React with vite, Node.js, Express.js, MongoDB.
-    - [View Project](https://github.com/hanako0311/FindNest.git)
+    - [View Project](https://findnest.onrender.com/)
     """)
