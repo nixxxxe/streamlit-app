@@ -1,0 +1,19 @@
+[[pages]]
+path = "about_me.py"
+name = "About Me"
+icon = "🏠"
+
+[[pages]]
+name = "Portfolio"
+icon = "🎨"
+is_section = true
+
+[[pages]]
+path = "projects.py"
+name = "Projects"
+icon = "📁"
+
+[[pages]]
+path = "skills_contact.py"
+name = "Skills & Contact"
+icon = "📞"
