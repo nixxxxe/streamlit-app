@@ -10,7 +10,7 @@ is_section = true
 
 [[pages]]
 path = "projects.py"
-name = "Projects"
+name = "Featured Projects"
 icon = "📁"
 
 [[pages]]
